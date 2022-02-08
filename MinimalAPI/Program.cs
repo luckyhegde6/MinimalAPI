@@ -83,3 +83,4 @@ IResult Delete(int id, IMovieService service)
 app.UseSwaggerUI(); //Adding swagger UI
 
 app.Run();
+    
